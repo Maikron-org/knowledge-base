@@ -20,3 +20,8 @@
 | GPU o aceleración | **P5, G5, Inf2** para aprendizaje profundo, **Inf1, Trn1** para inferencia de IA. |
 | Costo vs. rendimiento | **T3, T4g (Burstable Performance)** para costo bajo, **Spot Instances** para cargas intermitentes. |
 | Optimización de red | **M6in, C6in** para alto rendimiento de red. |
+
+
+## 🔗 Recursos Adicionales
+
+- 📄 [Tipos de instancias EC2](https://docs.aws.amazon.com/ec2/latest/instancetypes/)  

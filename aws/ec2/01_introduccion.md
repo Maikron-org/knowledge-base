@@ -37,3 +37,7 @@ AWS EC2 proporciona grupos de seguridad para controlar el tráfico de red.
 | Migración y Modernización | Migración de servidores on-premises a la nube. |
 | Juegos y Servidores de Videojuegos | Alojamiento de servidores de juegos multijugador con baja latencia. |
 | Infraestructura para Contenedores | Implementación de contenedores con Amazon ECS y Kubernetes en EC2. |
+
+## 🔗 Recursos Adicionales
+
+- 📄 [Documentación oficial de AWS EC2](https://docs.aws.amazon.com/es_es/AWSEC2/latest/UserGuide/ec2-ug.pdf)
