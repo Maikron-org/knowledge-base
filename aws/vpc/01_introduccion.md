@@ -10,6 +10,8 @@ Amazon Virtual Private Cloud (Amazon VPC) permite lanzar recursos de AWS en una 
 - **Conectividad híbrida**: mediante VPN, AWS Direct Connect o VPC peering.
 - **Escalabilidad**: integración con servicios como EC2, RDS y Lambda dentro de la VPC.
 
+![¿Cómo se ve una vpc?](image.png)
+
 ## Componentes clave
 
 - **Subredes**: Dividen la VPC en zonas de disponibilidad.
