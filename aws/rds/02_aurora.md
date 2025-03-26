@@ -1,0 +1,1 @@
+Aurora es un motor de base de datos relacional desarrollado por AWS, optimizado para la nube. Está diseñado para ser compatible con MySQL y PostgreSQL, pero con mejoras significativas en rendimiento y disponibilidad.
