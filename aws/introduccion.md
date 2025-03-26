@@ -25,3 +25,23 @@ La computación en la nube es la distribución de recursos de tecnologías de la
 
 - **Alcance global**  
   AWS cuenta con centros de datos en múltiples regiones del mundo, lo que permite ofrecer servicios con baja latencia a usuarios en diferentes ubicaciones.
+
+## Infraestructura de AWS
+
+### Regiones
+
+Las regiones de AWS son ubicaciones geográficas físicas donde AWS agrupa sus centros de datos. Cada región está compuesta por al menos dos zonas de disponibilidad. Los clientes pueden elegir la región que mejor se adapte a sus necesidades en términos de latencia, cumplimiento normativo y redundancia.
+
+> Ejemplos de regiones:  
+> - us-east-1 (Norte de Virginia)  
+> - eu-west-1 (Irlanda)  
+> - ap-southeast-1 (Singapur)
+
+### Zonas de disponibilidad (Availability Zones)
+
+Una zona de disponibilidad (AZ) es uno o más centros de datos distintos dentro de una región, cada uno con alimentación eléctrica, refrigeración y redes redundantes. Las AZ están diseñadas para ser aisladas entre sí, pero conectadas con baja latencia, lo que permite alta disponibilidad y tolerancia a fallos.
+
+### Edge Locations (Ubicaciones perimetrales)
+
+Las ubicaciones perimetrales son centros de datos utilizados por servicios como Amazon CloudFront para entregar contenido con baja latencia a los usuarios finales. Estas ubicaciones están distribuidas globalmente y optimizan la entrega de contenido estático y dinámico, mejorando la experiencia del usuario.
+
