@@ -90,3 +90,17 @@ aws s3 ls --profile dev
 - No usar el perfil por defecto para todo.
 - Evitar codificar claves en los scripts.
 - Rotar periódicamente las claves de acceso.
+
+
+---
+
+## AWS Toolkit para Visual Studio Code
+Si prefieres trabajar con una interfaz visual en lugar de la terminal o editar tus plantillas directamente desde un IDE, puedes usar el AWS Toolkit para Visual Studio Code.
+
+### Características:
+- Visualización de recursos AWS directamente en el explorador.
+- Soporte para plantillas de CloudFormation.
+- Navegación y gestión de buckets S3, funciones Lambda, y más.
+- Integración directa con perfiles de AWS CLI.
+
+> Es una herramienta ideal para desarrolladores que quieren combinar la potencia de AWS con la comodidad de Visual Studio Code.
