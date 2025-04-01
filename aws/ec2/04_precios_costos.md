@@ -9,6 +9,11 @@
 | Spot Instances | Instancias subastadas con descuentos de hasta el 90%. | Tareas tolerantes a interrupciones. |
 | Savings Plans | Compromiso en USD/hora por 1 o 3 años. | Reducción de costos flexible. |
 
+
+On-Demand: https://aws.amazon.com/es/ec2/pricing/on-demand/
+Reserved Instances https://aws.amazon.com/es/ec2/pricing/reserved-instances/pricing/
+
+
 ## Herramientas de Optimización de Costos
 
 - **AWS Cost Explorer**: Visualización de costos y tendencias.
